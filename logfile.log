@@ -1,0 +1,56 @@
+2019-12-31 11:40:47,691 INFO  [Log] application opened 
+2019-12-31 11:40:48,985 INFO  [Log] login completed 
+2019-12-31 11:40:52,350 INFO  [Log] logout completed 
+2019-12-31 11:40:55,881 INFO  [Log] application closed 
+2019-12-31 11:45:10,429 INFO  [Log] =========entered testcase========= 
+2019-12-31 11:45:16,270 INFO  [Log] application opened 
+2019-12-31 11:45:17,277 INFO  [Log] login completed 
+2019-12-31 11:45:20,437 INFO  [Log] logout completed 
+2019-12-31 11:45:24,038 INFO  [Log] application closed 
+2019-12-31 11:45:24,038 INFO  [Log] =========close testcase========= 
+2019-12-31 11:45:24,047 INFO  [Log] =========entered testcase========= 
+2019-12-31 11:45:29,254 INFO  [Log] application opened 
+2019-12-31 11:45:30,451 INFO  [Log] login completed 
+2019-12-31 11:45:33,470 INFO  [Log] entering into new frame 
+2019-12-31 11:45:34,643 INFO  [Log] new employee added 
+2019-12-31 11:45:41,212 INFO  [Log] Exit from the frame 
+2019-12-31 11:45:44,390 INFO  [Log] logout completed 
+2019-12-31 11:45:47,612 INFO  [Log] application closed 
+2019-12-31 11:45:47,612 INFO  [Log] =========close testcase========= 
+2019-12-31 11:50:45,154 INFO  [Log] =========entered testcase========= 
+2019-12-31 11:50:50,859 INFO  [Log] application opened 
+2019-12-31 11:50:51,620 INFO  [Log] login completed 
+2019-12-31 11:50:54,786 INFO  [Log] logout completed 
+2019-12-31 11:50:58,059 INFO  [Log] application closed 
+2019-12-31 11:50:58,059 INFO  [Log] =========close testcase========= 
+2019-12-31 11:56:01,311 INFO  [Log] =========entered testcase========= 
+2019-12-31 11:56:06,881 INFO  [Log] application opened 
+2019-12-31 11:56:07,954 INFO  [Log] login completed 
+2019-12-31 11:56:11,125 INFO  [Log] logout completed 
+2019-12-31 11:56:14,815 INFO  [Log] application closed 
+2019-12-31 11:56:14,815 INFO  [Log] =========close testcase========= 
+2019-12-31 12:13:10,044 INFO  [Log] =========entered testcase========= 
+2019-12-31 12:13:15,566 INFO  [Log] application opened 
+2019-12-31 12:13:16,710 INFO  [Log] login completed 
+2019-12-31 12:13:29,127 INFO  [Log]  curser action performed 
+2019-12-31 12:13:29,389 INFO  [Log] logout completed 
+2019-12-31 12:13:32,135 INFO  [Log] application closed 
+2019-12-31 12:13:32,135 INFO  [Log] =========close testcase========= 
+2019-12-31 12:19:16,246 INFO  [Log] =========entered testcase========= 
+2019-12-31 12:19:22,121 INFO  [Log] application opened 
+2019-12-31 12:19:22,973 INFO  [Log] login completed 
+2019-12-31 12:19:26,148 INFO  [Log] logout completed 
+2019-12-31 12:19:29,362 INFO  [Log] application closed 
+2019-12-31 12:19:29,362 INFO  [Log] =========close testcase========= 
+2020-01-02 11:57:40,289 INFO  [Log] =========entered testcase========= 
+2020-01-02 11:57:52,129 INFO  [Log] application opened 
+2020-01-02 11:57:59,451 INFO  [Log] login completed 
+2020-01-02 11:58:02,667 INFO  [Log] logout completed 
+2020-01-02 11:58:05,496 INFO  [Log] application closed 
+2020-01-02 11:58:05,496 INFO  [Log] =========close testcase========= 
+2020-01-03 11:24:14,370 INFO  [Log] =========entered testcase========= 
+2020-01-03 11:24:28,581 INFO  [Log] application opened 
+2020-01-03 11:24:35,453 INFO  [Log] login completed 
+2020-01-03 11:24:38,667 INFO  [Log] logout completed 
+2020-01-03 11:24:41,785 INFO  [Log] application closed 
+2020-01-03 11:24:41,785 INFO  [Log] =========close testcase========= 
